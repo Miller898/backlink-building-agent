@@ -1,0 +1,6 @@
+{
+  "timeout": 10,
+  "userAgent": "Mozilla/5.0 (BacklinkScraperBot)",
+  "maxPagesPerKeyword": 5,
+  "excludeDomains": ["competitor.com", "spam-site.com"]
+}
